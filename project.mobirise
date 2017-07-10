@@ -1,20 +1,18 @@
 {
   "settings": {
-    "name": "NewSite-07-09_1719",
-    "currentPage": "page1.html",
+    "name": "NewSite-07-10_0859",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 10,
-    "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/03-128x192.png",
-    "noImageResize": ""
+    "uniqCompNum": 1,
+    "versionPublish": "3.12.1"
   },
   "pages": {
-    "jhfghv": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "",
@@ -31,11 +29,11 @@
           ],
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header4",
-          "_anchor": "header4-1",
+          "_anchor": "header4-0",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/332-2000x1284.jpg",
+            "bgImage": "images/bg.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -43,7 +41,7 @@
             },
             "bgVideoRadio": false,
             "contentAlign": "center",
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
@@ -51,51 +49,9 @@
             "showButtons": true,
             "showArrow": false
           },
-          "title": "ITHIL KANGKUNGS",
-          "text": "FREE SIGNUP",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"http://georgine.dating-with-Quinlivan.top/ZDPLpamREBA.php\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\"></span>GET STARTED</a> "
-        }
-      ]
-    },
-    "page1.html": {
-      "settings": {
-        "title": "",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": ""
-      },
-      "components": [
-        {
-          "_inherit": "header1",
-          "_tags": [
-            "Theme"
-          ],
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header4",
-          "_anchor": "header4-9",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/332-2000x1284.jpg",
-            "bgColor": "#4c6972",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "contentAlign": "center",
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": false
-          },
-          "title": "ITHIL KANGKUNGS",
-          "text": "FREE SIGNUP",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"http://georgine.dating-with-Quinlivan.top/ZDPLpamREBA.php\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\"></span>GET STARTED</a> "
+          "title": "JOINO COK",
+          "text": "IKI TEMPIK",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">JOIN FREE</a> "
         }
       ]
     }
